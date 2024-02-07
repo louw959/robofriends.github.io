@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/robofriens.github.io/static/css/main.36d3e841.css",
+    "main.js": "/robofriens.github.io/static/js/main.4fa5e7b9.js",
+    "index.html": "/robofriens.github.io/index.html",
+    "main.36d3e841.css.map": "/robofriens.github.io/static/css/main.36d3e841.css.map",
+    "main.4fa5e7b9.js.map": "/robofriens.github.io/static/js/main.4fa5e7b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36d3e841.css",
+    "static/js/main.4fa5e7b9.js"
+  ]
+}
